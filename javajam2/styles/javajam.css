@@ -1,0 +1,96 @@
+
+
+body {
+background-color: #FCEBB6;
+color: #ffffff;
+font-family: Verdana, Arial, sans-serif;
+overflow-x: hidden;
+}
+
+html, body {
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+
+header { 
+background-color: #D2B48C;
+height: 150px;
+background-image:url(javajamlogo.jpg);
+background-repeat: no-repeat;
+}
+
+
+#wrapper { 
+background-color: #FEF6C2;
+min-height: 100vh;
+width: 100%;
+margin: 0;
+padding: 0;
+height: 100%; /* Ensures body takes up full height */
+overflow-x: hidden;
+box-shadow: 3px 3px 3px #666666;
+}
+
+nav {
+text-align: center;
+font-weight: bold;
+font-size: 1.5em;
+padding-top: 10px;
+}
+
+nav a {     
+text-decoration: none;
+}
+
+main {
+padding-left: 2em;
+padding-right: 2em;
+padding-bottom: 2em;
+display: block;
+}
+
+footer { 
+background-color: #D2B48C;
+font-size: small;
+font-style: italic;
+text-align: center;
+border-top: 2px #221811 solid;
+width: 100vw;
+padding-bottom: 20px;
+margin-top: auto;
+}
+
+h4 { 
+background-color: #D2B48C;
+font-size: 1.2em;
+padding-left: l0px;
+padding-bottom: 5px;
+}
+
+
+
+img {
+padding-left: 0px;
+padding-right: 10px;
+}
+
+details { padding-left: 20%;
+padding-right: 20%;
+}
+
+.full-width-image {
+    width: 100vw; 
+    height: auto; 
+    margin: 0; 
+}
+.heading{
+    background-color: #4B3621;
+    height:100px
+}
+
+.links{
+    background-color: #E5AA70;
+    height: 70px ;
+}
+
